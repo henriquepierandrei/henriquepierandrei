@@ -19,8 +19,6 @@
 
 
 
-## ⚒️ Ferramentas que utilizo!
-![Git](https://img.shields.io/badge/GIT-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 
