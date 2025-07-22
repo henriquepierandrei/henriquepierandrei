@@ -12,24 +12,11 @@
   
 ### 🌟 **Conecte-se comigo**
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_8px_rgba(0,119,181,0.3))](https://www.linkedin.com/in/henrique-pierandrei-2b8bb9297/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_8px_rgba(0,119,181,0.3))](https://www.linkedin.com/in/henrique-pierandrei/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&shadow=0px_4px_8px_rgba(88,101,242,0.3))](https://discord.com/channels/@rique-pieran/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&shadow=0px_4px_8px_rgba(37,211,102,0.3))](https://wa.me/+5532998596687)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px_4px_8px_rgba(234,67,53,0.3))](mailto:henriquepierandrei1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&shadow=0px_4px_8px_rgba(37,211,102,0.3))](https://wa.me/+5532999701559)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px_4px_8px_rgba(234,67,53,0.3))](mailto:profissional.pierandrei@gmail.com)
 
-</div>
-
----
-
-## 📊 **Estatísticas do GitHub**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepierandrei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepierandrei&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquepierandrei&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=FFD93D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
