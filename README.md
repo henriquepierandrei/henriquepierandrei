@@ -1,4 +1,4 @@
-# 🚀 Henrique Pierandrei Fernandes
+# 🚀 Henrique P. Fernandes
 
 <div align="center">
 
