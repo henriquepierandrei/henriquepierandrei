@@ -1,258 +1,337 @@
 <div align="center">
 
-# 👨‍💻 Henrique P. Fernandes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Henrique%20P.%20Fernandes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=55&descSize=16" width="100%"/>
 
-### Desenvolvedor Full Stack | Backend Specialist
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Henrique!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Especialista+em+Backend;Spring+Boot+%7C+Java+%7C+Python;Sempre+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&lines=Transformando+complexidade+em+c%C3%B3digo+elegante+%E2%9C%A8;Spring+Boot+%7C+Java+%7C+Python+%7C+Microsservi%C3%A7os;Backend+Specialist+baseado+em+Minas+Gerais+%F0%9F%87%A7%F0%9F%87%B7;Arquitetura+Limpa+%7C+APIs+REST+%7C+Clean+Code;Sempre+evoluindo%2C+sempre+entregando+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/henrique-pierandrei/)
-[![Discord](https://img.shields.io/badge/Discord-Conversar-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED)](https://discord.com/channels/@rique-pieran/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1BD741)](https://wa.me/5532999701559)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:profissional.pierandrei@gmail.com)
+<br/>
 
-<br>
+<a href="https://www.linkedin.com/in/henrique-pierandrei/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:profissional.pierandrei@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/5532999701559">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://discord.com/channels/@rique-pieran/">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=flat-square&label=Visitantes+no+perfil)
+![Years Badge](https://badges.pufler.dev/years/SEU_USERNAME?style=flat-square&color=6C63FF&logo=github)
+![Repos Badge](https://badges.pufler.dev/repos/SEU_USERNAME?style=flat-square&color=6C63FF&logo=github)
 
 </div>
 
 ---
 
-<br>
-
-## 🎯 Sobre Mim
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding gif" />
+## `$ whoami`
 
 ```java
-public class DeveloperProfile {
-    
-    private final String nome = "Henrique P. Fernandes";
-    private final String localizacao = "Rodeiro, MG 🇧🇷";
-    private final String stack = "Full Stack Developer";
-    private final String especialidade = "Backend Development";
-    
-    private final List<String> focoAtual = Arrays.asList(
-        "Spring Boot & Spring Ecosystem",
-        "Arquitetura de Microsserviços",
-        "Clean Code & Design Patterns",
-        "API REST & GraphQL"
-    );
-    
-    private final Map<String, List<String>> habilidades = Map.of(
-        "Backend", List.of("Java", "Spring Boot", "Python", "PL/SQL"),
-        "Frontend", List.of("HTML5", "CSS3", "JavaScript", "Tailwind"),
-        "Database", List.of("MySQL", "PostgreSQL", "MongoDB", "SQLite"),
-        "Tools", List.of("Git", "Docker", "IntelliJ", "VS Code")
-    );
-    
-    public String getMissao() {
-        return "Construir soluções escaláveis e eficientes " +
-               "que transformem problemas em código elegante";
+@Developer
+public class HenriquePFernandes {
+
+    private static final String NOME        = "Henrique P. Fernandes";
+    private static final String LOCALIZAÇÃO = "Rodeiro, MG — Brasil 🇧🇷";
+    private static final String CARGO       = "Full Stack Developer · Backend Specialist";
+    private static final String EMAIL       = "profissional.pierandrei@gmail.com";
+
+    private static final String[] FOCO_ATUAL = {
+        "Arquitetura de Microsserviços com Spring Cloud",
+        "APIs REST & GraphQL de alta performance",
+        "Clean Architecture + Domain-Driven Design",
+        "Containerização com Docker & Kubernetes"
+    };
+
+    private static final String MISSÃO =
+        "Construir software robusto, escalável e elegante — " +
+        "onde cada linha de código conta uma história de qualidade.";
+
+    public static void main(String[] args) {
+        System.out.println("Bem-vindo ao meu perfil! " + MISSÃO);
     }
 }
 ```
 
-<br clear="right"/>
+> 💡 Backend-first developer com paixão por sistemas bem projetados, código sustentável e soluções que escalam.
 
 ---
 
-<br>
+## 🧭 Visão Geral
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Em foco agora
+- 🏗️ Microsserviços com **Spring Cloud & Kubernetes**
+- ⚡ Otimização de queries e **modelagem avançada de BD**
+- 🔐 Segurança de APIs com **Spring Security & OAuth2**
+- 📦 **CI/CD Pipelines** com GitHub Actions
+- ☁️ Cloud com **AWS (EC2, S3, RDS)**
+
+</td>
+<td width="50%">
+
+### 🎯 Diferenciais
+- ✅ Código orientado a **testes e qualidade**
+- ✅ Forte base em **princípios SOLID & Clean Code**
+- ✅ Experiência em projetos **multi-tenant e de alta carga**
+- ✅ Comunicação clara e **documentação técnica**
+- ✅ Autonomia com **metodologias ágeis**
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Linguagens
+### Linguagens de Programação
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
-### 🚀 Frameworks & Bibliotecas
+### Frameworks & Ecossistema Backend
 
 <div align="center">
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+</div>
+
+### Frontend & UI
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
-### 🔧 Ferramentas & DevOps
+### DevOps, Cloud & Ferramentas
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 </div>
-
-<br>
 
 ---
 
-<br>
-
-## 📊 GitHub Stats
+## 📊 Métricas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+
 </div>
 
-<br>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<br>
-
-## 🎓 Aprendizado Contínuo
-
-<div align="center">
+## 🗺️ Roadmap de Aprendizado
 
 ```mermaid
-mindmap
-  root((Foco de Estudo))
-    Arquitetura
-      Microsserviços
-      Clean Architecture
-      Design Patterns
-    Backend
-      Spring Cloud
-      API REST
-      GraphQL
-    Database
-      Redis
-      Elasticsearch
-      Data Modeling
-    DevOps
-      Kubernetes
-      CI/CD
-      Cloud AWS
+journey
+    title Jornada Técnica 2024–2025
+    section Backend Avançado
+      Spring Cloud Gateway: 5: Henrique
+      Circuit Breaker & Resilience4j: 4: Henrique
+      Event-Driven com Kafka: 3: Henrique
+    section Infraestrutura
+      Docker Compose: 5: Henrique
+      Kubernetes: 3: Henrique
+      AWS Certified: 2: Henrique
+    section Qualidade
+      TDD com JUnit 5: 5: Henrique
+      Arquitetura Hexagonal: 4: Henrique
+      Code Review Avançado: 4: Henrique
 ```
 
-</div>
+---
 
-<br>
+## 🏗️ Arquitetura que Pratico
+
+```mermaid
+graph LR
+    A[🌐 Client] --> B[API Gateway]
+    B --> C[Auth Service\nSpring Security]
+    B --> D[Core Service\nSpring Boot]
+    B --> E[Notification\nService]
+    D --> F[(PostgreSQL)]
+    D --> G[(Redis Cache)]
+    D --> H[Message Broker\nKafka]
+    H --> E
+    C --> I[(MongoDB)]
+    
+    style A fill:#6C63FF,color:#fff
+    style B fill:#0D1117,color:#6C63FF
+    style D fill:#0D1117,color:#6DB33F
+    style F fill:#336791,color:#fff
+    style G fill:#DC382D,color:#fff
+    style H fill:#231F20,color:#fff
+```
 
 ---
 
-<br>
+## 💼 O que Posso Entregar
 
-## 💡 Soft Skills
+<table>
+<tr>
+<td align="center" width="25%">
 
-<div align="center">
+**🔌 APIs REST & GraphQL**
 
-| 🎯 Resolução de Problemas | 🤝 Trabalho em Equipe | 📚 Aprendizado Contínuo |
-|:-------------------------:|:---------------------:|:-----------------------:|
-| Pensamento analítico e lógico | Comunicação efetiva | Autodidata motivado |
-| Debugging e troubleshooting | Colaboração ágil | Adaptabilidade rápida |
+Design, versionamento, documentação com Swagger/OpenAPI e autenticação segura
 
-</div>
+</td>
+<td align="center" width="25%">
 
-<br>
+**🏗️ Arquitetura de Sistemas**
 
----
+Microsserviços, event-driven, DDD e Clean Architecture aplicados ao mundo real
 
-<br>
+</td>
+<td align="center" width="25%">
 
-## 🌟 Filosofia de Desenvolvimento
+**🗄️ Banco de Dados**
 
-<div align="center">
+Modelagem relacional, queries otimizadas, migrations e estratégias de caching
 
-> *"Código limpo não é escrito seguindo regras. Você não se torna um artesão de software simplesmente aprendendo uma lista de heurísticas. Profissionalismo e artesania vêm de valores que direcionam as disciplinas."*
-> 
-> **— Robert C. Martin (Uncle Bob)**
+</td>
+<td align="center" width="25%">
 
-<br>
+**🐳 DevOps & Deploy**
 
-### 🎯 Meus Princípios
+Containerização, CI/CD pipelines, monitoramento e infraestrutura como código
 
-🔹 **Clean Code** - Código legível é código sustentável  
-🔹 **SOLID** - Fundamentos para arquitetura robusta  
-🔹 **DRY** - Don't Repeat Yourself  
-🔹 **KISS** - Keep It Simple, Stupid  
-🔹 **Testing** - Code that works, code that lasts  
-
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
-<br>
+## 📐 Princípios que Guiam Meu Trabalho
 
-## 📫 Vamos Conversar?
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                    CLEAN CODE MANIFESTO                      ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║  S — Single Responsibility   │  Cada classe, um propósito   ║
+  ║  O — Open/Closed             │  Extensível, não modificável ║
+  ║  L — Liskov Substitution     │  Subtipos sem surpresas      ║
+  ║  I — Interface Segregation   │  Interfaces coesas           ║
+  ║  D — Dependency Inversion    │  Dependa de abstrações       ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║  DRY  · Don't Repeat Yourself     │  Reutilize, não copie   ║
+  ║  KISS · Keep It Simple            │  Simples é sustentável  ║
+  ║  YAGNI · You Ain't Gonna Need It  │  Construa o necessário  ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+> *"Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."*
+> — **Martin Fowler**
+
+---
+
+## 📫 Vamos Construir Algo Juntos?
 
 <div align="center">
 
-Estou sempre aberto a novos projetos, colaborações e oportunidades!
+Aberto a **freelas**, **colaborações open source**, **oportunidades CLT/PJ** e **mentorias**.
 
-### 🤝 Como posso ajudar você?
+<br/>
 
-💼 **Desenvolvimento de APIs REST/GraphQL**  
-🏗️ **Arquitetura de Sistemas Escaláveis**  
-🔧 **Backend com Spring Boot**  
-📊 **Modelagem e Otimização de Banco de Dados**  
-🐳 **Containerização e DevOps**
+<a href="https://www.linkedin.com/in/henrique-pierandrei/">
+  <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:profissional.pierandrei@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://wa.me/5532999701559">
+  <img src="https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-<br>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pierandrei/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissional.pierandrei@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532999701559)
-
-<br>
-
-### ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=for-the-badge&label=Visitantes)
+⏱️ **Tempo médio de resposta:** menos de 24h
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### 🚀 *"A melhor maneira de prever o futuro é inventá-lo"* 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-**Desenvolvido com ❤️ e ☕ por Henrique P. Fernandes**
+</div>
 
-<img src="https://raw.githubusercontent.com/Trilha-SP-Linux-DIO/deafio-github-markdown/main/assets/octocat-1695719745252.png" width="100" alt="Octocat" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**Desenvolvido com ☕, dedicação e muito `git commit` por Henrique P. Fernandes**
+
+*"A melhor maneira de prever o futuro é construí-lo."*
 
 </div>
