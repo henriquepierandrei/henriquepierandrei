@@ -25,9 +25,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=flat-square&label=Visitantes+no+perfil)
-![Years Badge](https://badges.pufler.dev/years/SEU_USERNAME?style=flat-square&color=6C63FF&logo=github)
-![Repos Badge](https://badges.pufler.dev/repos/SEU_USERNAME?style=flat-square&color=6C63FF&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=henriquepierandrei&color=6C63FF&style=flat-square&label=Visitantes+no+perfil)
+![Years Badge](https://badges.pufler.dev/years/henriquepierandrei?style=flat-square&color=6C63FF&logo=github)
+![Repos Badge](https://badges.pufler.dev/repos/henriquepierandrei?style=flat-square&color=6C63FF&logo=github)
 
 </div>
 
@@ -168,20 +168,20 @@ public class HenriquePFernandes {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepierandrei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepierandrei&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquepierandrei&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=henriquepierandrei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -272,19 +272,19 @@ Containerização, CI/CD pipelines, monitoramento e infraestrutura como código
 ## 📐 Princípios que Guiam Meu Trabalho
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                    CLEAN CODE MANIFESTO                      ║
-  ╠══════════════════════════════════════════════════════════════╣
+  ╔═════════════════════════════════════════════════════════════╗
+  ║                    CLEAN CODE MANIFESTO                     ║
+  ╠═════════════════════════════════════════════════════════════╣
   ║  S — Single Responsibility   │  Cada classe, um propósito   ║
   ║  O — Open/Closed             │  Extensível, não modificável ║
   ║  L — Liskov Substitution     │  Subtipos sem surpresas      ║
   ║  I — Interface Segregation   │  Interfaces coesas           ║
   ║  D — Dependency Inversion    │  Dependa de abstrações       ║
-  ╠══════════════════════════════════════════════════════════════╣
+  ╠═════════════════════════════════════════════════════════════╣
   ║  DRY  · Don't Repeat Yourself     │  Reutilize, não copie   ║
   ║  KISS · Keep It Simple            │  Simples é sustentável  ║
   ║  YAGNI · You Ain't Gonna Need It  │  Construa o necessário  ║
-  ╚══════════════════════════════════════════════════════════════╝
+  ╚═════════════════════════════════════════════════════════════╝
 ```
 
 > *"Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."*
@@ -322,7 +322,7 @@ Aberto a **freelas**, **colaborações open source**, **oportunidades CLT/PJ** e
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquepierandrei&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
